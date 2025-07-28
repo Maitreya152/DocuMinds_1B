@@ -1,0 +1,11 @@
+PyMuPDF
+pypdf
+torch
+transformers
+scikit-learn
+numpy
+matplotlib
+transformers==4.53.0
+spacy
+pdfplumber
+sentence-transformers
